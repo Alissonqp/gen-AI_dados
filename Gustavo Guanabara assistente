@@ -1,0 +1,72 @@
+# 🎓 Guia Prático: Metodologia Gustavo Guanabara & Ensino de Tecnologia
+### Projeto desenvolvido com NotebookLM — Segundo Cérebro
+
+---
+
+## 📌 Contexto do Projeto
+Este projeto utiliza a Inteligência Artificial para organizar e simplificar o vasto ecossistema educacional criado por **Gustavo Guanabara** (Curso em Vídeo / Estudonauta). O foco é transformar as transcrições de aulas, artigos acadêmicos sobre a sua didática e relatos de alunos em um material de consulta rápida e aprendizagem ativa.
+
+A proposta aplica **Engenharia de Prompts** para criar um "Segundo Cérebro" que auxilie novos estudantes a navegarem pelo mundo da programação sem os bloqueios comuns da área técnica.
+
+---
+
+## 🎯 Tema Central
+**Domínio Tecnológico e Didática Inclusiva**
+
+O conteúdo abrange a jornada completa do estudante de TI:
+- **Lógica de Programação e Algoritmos:** A fundação essencial.
+- **Programação em Python:** Dividida didaticamente em Mundos (1, 2 e 3).
+- **Linguagem Java:** História, conceitos e aplicações práticas.
+- **Gamificação no Ensino:** Como a estrutura de "fases" potencializa a retenção.
+
+---
+
+## 🧠 Objetivo do Projeto
+Criar um **Miniguia de Capacitação Tech**, utilizando IA para:
+- Estruturar a trilha de aprendizagem do "Pequeno Gafanhoto".
+- Traduzir conceitos complexos de computação para uma linguagem acessível.
+- Desenvolver materiais de apoio baseados na metodologia "pegar na mão".
+- Incentivar a transição de "copiador de códigos" para "programador real".
+
+---
+
+## 🛠️ Ferramentas Utilizadas
+- [NotebookLM](https://notebooklm.google.com/) (Google)
+- **Fontes Base:** Transcrições do Curso em Vídeo, Artigos da UFF, ProfCast e fóruns da comunidade (Reddit).
+
+---
+
+## 📦 Estrutura e Entregáveis do Notebook
+
+### 📑 Relatório 1: Glossário do Pequeno Gafanhoto
+**Desvende o Código: O Dicionário Visual da Programação**
+Um glossário interativo que identifica termos como "Algoritmo", "Python", "Mundos" e "Engenharia de Contexto", permitindo que o usuário interaja com a IA para aprofundar cada item.
+
+### 📑 Relatório 2: Guia de Estudo — A Jornada do Programador
+**Do Zero ao Primeiro Script: Como Estudar com o Guanabara**
+Guia visual com tabelas "Deve / Não Deve" focado em hábitos de estudo eficazes para iniciantes em tecnologia.
+
+### 🎥 Roteiro de Vídeo: Por que ser um Programador?
+Roteiro estruturado focado em motivação, mercado de trabalho e o espírito de comunidade (compartilhamento de conhecimento).
+
+---
+
+## 🧩 Recursos Interativos de Aprendizagem
+- **Flashcards:** 50 cartões para revisão rápida de comandos Python e Lógica.
+- **Quiz:** Avaliação de nível para validação de progresso entre os "Mundos".
+- **Mapa Mental:** Visão global das linguagens de programação e suas aplicações.
+
+---
+
+## 🔗 Acesso ao Projeto no NotebookLM
+O projeto completo com todas as fontes e interações pode ser acedido aqui:
+
+👉 **[Aceder ao Notebook de Tecnologia](https://notebooklm.google.com/notebook/a8ddf62e-87d1-425d-bb71-1a1b26caeaf1)**
+
+---
+
+## 🚀 Considerações Finais
+Este projeto demonstra que, com a orientação correta e o suporte da IA, a programação deixa de ser um "bicho de sete cabeças" para se tornar uma ferramenta real de transformação de carreira.
+
+---
+*Desenvolvido como parte dos desafios da DIO (Digital Innovation One).*
